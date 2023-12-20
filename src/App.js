@@ -13,12 +13,12 @@ import Blog from "./pages/Blog";
 function App() {
   return (
     <>
-    <BrowserRouter basename="/BlogApp_frontend">
+    <BrowserRouter basename="/Blog_Frontend">
       <Header />
       <Toaster />
      
       <Routes >
-        {/* <Route path="/BlogApp_frontend" element={<Blogs />} /> */}
+       
         <Route path="/" element={<Blogs />} />
         {/* <Route path="/home" element={<Blogs />} /> */}
         <Route path="/get-blog/:id" element={<Blog/>} />
