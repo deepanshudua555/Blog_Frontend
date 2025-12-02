@@ -1,7 +1,7 @@
 {
   "homepage": "https://deepanshudua555.github.io/Blog_Frontend/",
   "name": "client",
-  "proxy": "https://itchy-beanie-hen.cyclic.app/",
+  "proxy": "https://blog-server-v596.onrender.com/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
