@@ -8,8 +8,8 @@
  // for dev env
 
 const API ={
-    BLOG_URL : "https://itchy-beanie-hen.cyclic.app/api/v1/blog",
-    USER_URL : "https://itchy-beanie-hen.cyclic.app/api/v1/user"  
+    BLOG_URL : "https://blog-server-v596.onrender.com/api/v1/blog",
+    USER_URL : "https://blog-server-v596.onrender.com/api/v1/user"  
 }
 
 // for my network 
